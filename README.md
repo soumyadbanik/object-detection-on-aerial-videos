@@ -42,6 +42,7 @@ This will also help you to overcome the class imbalances in your final dataset.
 ### Training
 
 1. Clone the repository `git clone https://github.com/AlexeyAB/darknet.git`
+
 For training on Stanford Drone Data, follow the step 1 from [AlexeyAB's Repo](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
 If you are training on local gpu, make sure you have `cuda` and `cuDNN` with compatible version installed in your system.
 
