@@ -14,15 +14,15 @@ Wait! Wait! There are lot more boring stuffs to do bedore diving into the deep l
 2. Modify the directoy format into this format from which ever format you got. This will make the process easier. ![fileformat](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2020-22-04.png)
 3. Put the `get_stats.py` into the parent directory i.e the dataset directory. This will give you the whole summery into each directory for each video in a Bar chart format. Like this 
 
-| ![bar](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/vid_data.png) | 
-|---|
+  |<img src="https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/vid_data.png" width="400" height="250">| 
+  |---|
 
 This will also help you to overcome the class imbalances in your final dataset.
 
 4. Select the videos according to your detection task and put into another directory.
 5. Then rename the videos and labels into this format.
 
-| ![img1](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2021-05-32.png) | ![img2](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2021-06-21.png) |
+|![img1](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2021-05-32.png) | ![img2](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2021-06-21.png) |
 |---|---|
  
  This is going to help you in your remaining tasks.
