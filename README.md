@@ -1,7 +1,7 @@
 # object detection on stanford-drone-dataset
 This repo contains the codes and steps to perform object detection on stanford drone dataset in DarkNet YOLO-V4 framework. Below you can see the visualization of detected objects with their accuracies.
 ### Demo 
-Inferencing on scene `deathCircle` of Stanford Drone Dataset:(Trained on very small data. So low accuracy). Let's start to get some cool detections like this! 
+Inferencing on scene `deathCircle` of Stanford Drone Dataset(Trained on very small data. So low accuracy). Let's start to get some cool detections like this! 
 
 ![output](https://github.com/soumyadbanik/object-detection-on-aerial-images/blob/main/results/output2.gif)
 
