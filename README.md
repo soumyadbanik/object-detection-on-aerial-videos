@@ -5,7 +5,7 @@ Inferencing on scene `deathCircle` of Stanford Drone Dataset(Trained on very sma
 
 ![output](https://github.com/soumyadbanik/object-detection-on-aerial-images/blob/main/results/output2.gif)
 
-Wait! Wait! There are lot more boring stuffs to do bedore diving into the deep learning. Since this is a video dataset, the major task is to preprocess and clean the data. There is no point to train with the whole dataset. First of all, you need to choose some of the videos according to your purpose of detection. *But how you would choose them??* 80-90% of the dataset is occupied by pedestrians and bikers. So, if you want to detect only cars, obviously random selection of videos will not work. I've made it easy for you.
+Wait! Wait! There are lot more boring stuffs to do before diving into the deep learning. Since this is a video dataset, the major task is to preprocess and clean the data. There is no point to train with the whole dataset. First of all, you need to choose some of the videos according to your purpose of detection. *But how you would choose them??* 80-90% of the dataset is occupied by pedestrians and bikers. So, if you want to detect only cars, obviously random selection of videos will not work. I've made it easy for you.
 (If you want to skip this part, download the prepared dataset from my [Drive](https://drive.google.com/drive/folders/1fxhziv-1ZB5mPqS2aNDAfdJdPCxVL1T-?usp=sharing))
 
 ### Preparing the Dataset
