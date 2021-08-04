@@ -9,6 +9,7 @@ Wait! Wait! There are lot more boring stuffs to do before diving into the deep l
 (If you want to skip this part, download the prepared dataset from my [Drive](https://drive.google.com/drive/folders/1fxhziv-1ZB5mPqS2aNDAfdJdPCxVL1T-?usp=sharing)). This dataset is balanced over 3 classes i.e. pedestrians, bikers and cars only.
 
 ### Preparing the Dataset
+Set up a python virtual environmet with `requirements.txt`.
 
 1. Download the dataset from [here](https://cvgl.stanford.edu/projects/uav_data/)
 2. Modify the directoy format into this format from which ever format you got. This will make the process easier. ![fileformat](https://github.com/soumyadbanik/object-detection-on-aerial-videos/blob/main/misc/Screenshot%20from%202021-06-30%2020-22-04.png)
