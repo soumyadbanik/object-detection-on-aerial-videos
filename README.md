@@ -29,7 +29,7 @@ This will also help you to overcome the class imbalances in your final dataset.
  
  This is going to help you in your remaining tasks.
  
-6. Put `get_train.py`, `get_test.py`, `get_valid.py` and run them by
+6. `$cd data_preparation` and Put `get_train.py`, `get_test.py`, `get_valid.py` and run them by
     `python3 get_train.py` and similarly remianing two.
 7. This will split each video into frames and store each 30th, 89th and 91st frame for train, test & validation respectively (taking 1 frame per second) And also generate corresponding `.csv` files. Make sure your system have `ffmpeg` installed otherwise do 
  `sudo apt update` then `sudo apt install ffmpeg`
